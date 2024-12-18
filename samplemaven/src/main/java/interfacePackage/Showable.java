@@ -1,0 +1,6 @@
+package interfacePackage;
+
+public interface Showable {
+	public void show();
+
+}
